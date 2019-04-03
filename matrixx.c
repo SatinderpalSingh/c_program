@@ -1,3 +1,5 @@
+//to find transpose of matrix
+
 #include <stdio.h>
  
 void main()
